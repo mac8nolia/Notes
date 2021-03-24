@@ -1,5 +1,5 @@
 //
-//  MasterViewController.swift
+//  MainViewController.swift
 //  Notes
 //
 //  Created by Ольга on 19.03.2021.
